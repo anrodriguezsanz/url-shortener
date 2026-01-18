@@ -1,6 +1,8 @@
-# URL Shortener Service
+# URL Shortener
 
 URL Shortener application built with **Spring Boot**, **H2 Database**, and **Thymeleaf**. This application allows you to convert long URLs into short and uniquelinks.
+
+![URL Shortener Screenshot](src/main/resources/static/css/img/example1.png)
 
 ## Features
 
